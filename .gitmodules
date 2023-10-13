@@ -1,0 +1,15 @@
+[submodule "ChromeExtension"]
+	path = ChromeExtension
+	url = https://github.com/RAVIROCK916/ChromeExtension
+[submodule "GoLorry"]
+	path = GoLorry
+	url = https://github.com/RAVIROCK916/go-lorry
+[submodule "RestaurantAPI"]
+	path = RestaurantAPI
+	url = https://github.com/RAVIROCK916/Front-End
+[submodule "ToDoList"]
+	path = ToDoList
+	url = https://github.com/RAVIROCK916/Javascript
+[submodule "PaintWebApp"]
+	path = PaintWebApp
+	url = https://github.com/RAVIROCK916/Paint
